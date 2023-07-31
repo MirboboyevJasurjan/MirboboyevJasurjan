@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as a freelancer<br>
+👯 I’m looking to collaborate on ...? <br>
+🤝 I’m looking for help with learning Python Django<br>
+🌱 I’m currently learning Django, C++, Telegram Bot and Typescript<br>
+💬 Ask me about Javascript, Python and all about frontend development<br>
+⚡ Fun fact: I love Coding and developing anything with coffee and energy drinks
 
 
 ## 🌐 Socials:
