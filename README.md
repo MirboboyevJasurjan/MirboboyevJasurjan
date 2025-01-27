@@ -4,7 +4,7 @@
 🤝 I’m looking for help with learning Python Django<br>
 🌱 I’m currently learning Django, C++, Telegram Bot and Typescript<br>
 💬 Ask me about Javascript, Python and all about frontend development<br>
-⚡ Fun fact: I love Coding and developing anything with coffee and energy drinks
+⚡ Fun fact: I love Coding and developing anything with coffee or tea
 
 
 ## 🌐 Socials:
